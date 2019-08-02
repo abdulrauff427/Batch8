@@ -36,4 +36,7 @@ public class LoginPOM {
 	public void clickLoginBtn() {
 		this.loginBtn.click(); 
 	}
+	
+	
+	//need to remove errors
 }
